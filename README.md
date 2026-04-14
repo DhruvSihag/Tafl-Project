@@ -2,7 +2,7 @@
 
 An interactive computational platform designed to visualize and validate the non-regularity of formal languages through the application of the **Pumping Lemma**.
 
-**Live Deployment:** [pumpinglemmavisulaizer.vercel.app](https://pumpinglemmavisulaizer.vercel.app/)
+
 
 ---
 
@@ -52,7 +52,7 @@ An interactive computational platform designed to visualize and validate the non
 
 ### Installation
 * **Step 1:** Clone the repository
-    * `git clone https://github.com/Yashmeet-3000/pumping-lemma-visualizer-TAFL.git`
+    * `git clone https://github.com/DhruvSihag/Tafl-Project.git`
 * **Step 2:** Install dependencies
     * `npm install`
 * **Step 3:** Initiate development environment
