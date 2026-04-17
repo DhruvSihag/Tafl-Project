@@ -2,7 +2,7 @@
 
 An interactive computational platform designed to visualize and validate the non-regularity of formal languages through the application of the **Pumping Lemma**.
 
-**Live Deployment:** [https://tafl-project-iota.vercel.app/]
+**Live Deployment:** [https://tafl-project-jnh1xvqwf-sihagparuldhruv-4114s-projects.vercel.app/]
 
 
 
